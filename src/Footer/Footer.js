@@ -6,7 +6,9 @@ import { HashLink as Link } from "react-router-hash-link";
 import "./Footer.css";
 
 const Footer = () => {
+  /*state for temperature numbers*/
   const [weather, setWeather] = useState([]);
+  /*icons for different weather conditions*/
   const icons = {
     sun: "assets/images/weather-icons/sunny.png",
     cloudy: "assets/images/weather-icons/cloudy.png",
@@ -25,7 +27,7 @@ const Footer = () => {
     };
     getData();
   }, []);
-
+/*building 3 weather cards for Helsinki, Espoo, Vantaa*/
   const weathercard = weather.map((weather) => {
     return (
       <FooWeatherCard

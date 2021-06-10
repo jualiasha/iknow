@@ -115,7 +115,7 @@
 /* one or more available input mechanism(s) cannot hover or there are no pointing input mechanisms */
 @media (max-width: 901px) {
   .horizontal-scroll {
-    margin-left: 46vw;
+    margin-left: 45vw;
   }
 }
 

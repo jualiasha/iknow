@@ -55,6 +55,7 @@ const Header = () => {
           color: "#eb3204",
           position: "relative",
           top: "0.5rem",
+          cursor: "pointer",
         }}
         onClick={mobilemenuHandlerShow}
       ></MenuIcon>
