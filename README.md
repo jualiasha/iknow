@@ -8,7 +8,7 @@
 
 ### Figma design: is [here](https://www.figma.com/file/N7nNNqAgPQIwLQiqGKfoUB/Summer-team-project?node-id=15%3A0)
 
-### Live page is [here](https://iknow-tau.vercel.app/)
+### Live page is [here](https://iknow-sable.vercel.app/)
 
 ### Backend page is [here](https://iknow-backend.herokuapp.com/)
 
@@ -44,10 +44,9 @@ npm install react-router-dom
 npm install axios
 npm install json-server --save-dev
 npm install react-bootstrap bootstrap@4.6.0
-<<<<<<< HEAD
-=======
+npm install @material-ui/core
+npm install @material-ui/icons
 npm install --save react-router-hash-link
->>>>>>> upstream/main
 npm install react-paginate --save
 ```
 

@@ -87,10 +87,10 @@ const Home = () => {
                 daily-life actions.
               </p>
               <ul>We want to present you an idea that:</ul>
-              <li>
+              {/* <li>
                 you can easily book laundry time for your apartment in your
                 house laundry by making some hits in your phone
-              </li>
+              </li> */}
               <li>
                 in case you loose or find something you can easily post it in
                 this app and we hope it will help you to find it quicker
@@ -101,7 +101,7 @@ const Home = () => {
                 you want
               </li>
               <li>
-                are you boring? don’t be! “iKnow” will find events for you. You
+                are you bored? don’t be! “iKnow” will find events for you. You
                 can easily find one you like or post one you would like to
                 organize. We have online and offline events for you as well.
               </li>
