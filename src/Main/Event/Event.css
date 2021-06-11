@@ -2,7 +2,7 @@
 /* 2nd container from top that displays image and 3 cards */
 .top-graphic-and-cards-container {
   /* position: relative; */
-  height: 80vh;
+  height: 45vh;
 }
 .top-graphic-and-cards-container img {
   height: 100%;
@@ -108,6 +108,10 @@
   }
   .MuiInput-root {
     width: 15em !important;
+  }
+  .top-graphic-and-cards-container {
+    /* position: relative; */
+    height: 30vh;
   }
 }
 @media (max-width: 260px) {
