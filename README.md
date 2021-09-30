@@ -1,5 +1,7 @@
 # This is a full stack team project of Business College Helsinki students.
 
+[![CI-iknow](https://github.com/jualiasha/iknow/actions/workflows/main.yml/badge.svg)](https://github.com/jualiasha/iknow/actions/workflows/main.yml)
+
 ## Name: Iknow
 
 ## Design
